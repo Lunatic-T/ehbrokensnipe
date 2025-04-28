@@ -6,7 +6,7 @@
         ]
     },
     {
-        "name": "disallowed(bot)",
+        "name": "disallowed",
         "ids": [
             "hunt",
             "try",
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "name": "allowedGlitch(bot)",
+        "name": "allowedG",
         "ids": [
             "glich",
             "glith",
@@ -299,7 +299,7 @@
         ]
     },
     {
-        "name": "allowedjester(bot)",
+        "name": "allowedJ",
         "ids": [
             "jester",
             "chester",
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "name": "allowedVoidCoin(bot)",
+        "name": "allowedV",
         "ids": [
             "vc",
             "void",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "name": "allowedDreamSpace(bot)",
+        "name": "allowedD",
         "ids": [
             "dream",
             "dreamscap",
@@ -391,7 +391,7 @@
         ]
     },
     {
-        "name": "Glitchdisallowed(bot)",
+        "name": "Gdisallowed",
         "ids": [
             "corruption",
             "hell",
@@ -516,7 +516,7 @@
         ]
     },
     {
-        "name": "Jesterdisallowed(bot)",
+        "name": "Jdisallowed",
         "ids": [
             "user",
             "warned",
@@ -543,13 +543,13 @@
         ]
     },
     {
-        "name": "VoidCoinDisallowed(bot)",
+        "name": "VDisallowed",
         "ids": [
             "exotic"
         ]
     },
     {
-        "name": "DreamSpacedisallowed(bot)",
+        "name": "Ddisallowed",
         "ids": [
             "looking for",
             "goin",
